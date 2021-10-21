@@ -1,0 +1,34 @@
+h1 {
+	font-family:  Helvetica;
+	font-size: 100px;
+	font-weight:  bold;
+	color:  khaki;
+	text-align: center;
+	background-image: url('./Assets/pattern.jpeg');
+}
+
+.brushes, .frames, .finnish {
+	font-family:  Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+}
+
+.brushes {
+	background-color: mediumspringgreen;
+}
+
+.frames {
+	background-color: lightcoral;
+}
+
+.finnish {
+	background-color: skyblue;
+}
+
+.price {
+	font-family: Helvetica;
+	font-weight: bold;
+	color:  blue;
+}
